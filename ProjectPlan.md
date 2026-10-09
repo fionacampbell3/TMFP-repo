@@ -12,8 +12,11 @@ Before beginning the project, our group will do research on the history of food 
 The primary research questions we are examining are as follows:
 
 -Which specific Chicago neighborhoods have the lowest access to grocery stores relative to population? 
+
 -Are food desert neighborhoods correlated to neighborhoods with poorer health?
+
 -What demographic factors are similar across all food desert neighborhoods?
+
 -Is there a correlation between access to public transportation and grocery store access?
 
 
