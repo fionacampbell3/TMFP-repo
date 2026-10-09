@@ -1,7 +1,23 @@
 1. Overview
-2. Team
-3. Research Question
-4. Datasets
+
+One of the most prevalent issues surrounding America, both in urban and rural areas, is food deserts. Food deserts are geographical locations where individuals have little or no access to healthy, nutritious food, often due to a lack of grocery stores in the neighborhood. In urban areas, this is defined as living areas where there are no groceries within a mile of the area. The city of Chicago is one of many who have food deserts. 
+
+Our group is interested in investigating food accessibility across Chicago neighborhoods, identifying which neighborhoods are classified as food deserts, and exploring the correlation between Chicago food deserts, wealth, health, and transit information in the same neighborhoods. Having better knowledge of issues such as this makes it easier to combat these issues in the future and may move us forward to coming up with solutions. 
+
+Before beginning the project, our group will do research on the history of food deserts and explore previous research done on their existence. From there, we will examine Chicago grocery store data by neighborhood, as well as census data, health data, and CTA transit data, linked together by the neighborhood, to determine the quality of the data and their relevance to our project's goals. From there, we will clean the datasets and map connections between the datasets for better comparison. Once we do that, we will examine what geographies are considered “food deserts" and what factors are common between them that differ from non-food desert neighborhoods. 
+
+3. Team
+4. Research Question
+
+The primary research questions we are examining are as follows:
+
+-Which specific Chicago neighborhoods have the lowest access to grocery stores relative to population? 
+-Are food desert neighborhoods correlated to neighborhoods with poorer health?
+-What demographic factors are similar across all food desert neighborhoods?
+-Is there a correlation between access to public transportation and grocery store access?
+
+
+6. Datasets
    
 - Green Choice Food Catalog: The GreenChoice Food Catalog is a comprehensive food database that combines food and beverage catalogs from more than 75 of the largest food retailers in the United States. Each product is classified by its name, food type, nutrition facts, ingredient lists, allergens, and other identifying characteristics. Furthermore, each product is assigned a GreenScore, a rating from 0 to 100 that evaluates its overall health and sustainability based on factors such as ingredient processing and safety, nutritional quality, and climate impact. This dataset allows us to examine the types and nutritional quality of food products offered by major retailers operating in Chicago. By combining this information with complementary datasets on grocery store locations and the economical stance of neighborhoods, we can further investigate which Chicago neighborhoods experience the greatest barriers to grocery store access. Additionally, we can explore how the availability of nutritious food options, alongside factors such as income and food affordability, may contribute to disparities in food accessibility across Chicago communities.
 https://about.greenchoicenow.com/food-data-api?utm_source=adwords&utm_term=food%20database&utm_campaign=B2B+Data+License+Leads&utm_medium=ppc&hsa_mt=p&hsa_ad=788359911272&hsa_net=adwords&hsa_src=g&hsa_kw=food%20database&hsa_tgt=kwd-313471614431&hsa_cam=23362234490&hsa_acc=3365111280&hsa_ver=3&hsa_grp=190503214055&gad_source=1&gad_campaignid=23362234490&gbraid=0AAAAAC70mCz3vzfNAtvXRVZfPJAcMdjRv&gclid=CjwKCAjw25fWBhAVEiwAMopNjudeyweY-wolrj9RcwbboCPQzB3dbFI5WlA2tI7KoKBlq77b5-FJuxoCpmkQAvD_BwE
