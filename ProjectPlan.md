@@ -37,3 +37,7 @@ https://www.transitchicago.com/data/
 6. Timeline
 7. Constraints
 8. Gaps
+
+- Currently unable to independently produce a significant amount of the artifacts and tools listed in the course project examples (snakemake workflow automation, cleaning with OpenRefine, documenting a reproducible analysis, meaningful or complex visualizations, utilization of DCAT or Box for large data files, etc.)
+
+- May lack the sufficient experience to seamlessly integrate all chosen datasets utilizing SQL in addition to the multiple different file formats including GeoJSON, JSON, CSV, XML, and KML.
