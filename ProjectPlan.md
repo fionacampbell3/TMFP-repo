@@ -41,6 +41,28 @@ https://www.transitchicago.com/data/
 
 **5. Timeline**
 
+- Making sure Git pushes are made by all contributing members of team: **Fiona**; before each Canvas submission 
+- Create a GitHub file for the Interim Status Report (StatusReport.md): **Fiona**  
+
+The following will be completed after submitting our project plan:
+  - Update on tasks needed for final submission (datasets, workflows): **Each Member**
+  - Write summaries of current contributions: **Each Member**
+  - Summary of challenges encountered: **Tina**
+  - Update timeline: **Fiona**
+  - Changes to plan made based on feedback: **Each Member**
+
+- Create a GitHub ReadME.md file for the final submission: **Fiona**
+ 
+The following will be completed after submitting our status report:
+  - Data profiles: updated description of datasets and their contents, including constraints: **Fiona**
+  - Data quality: data quality assessment: **Panth**
+  - Data cleaning: identifying relevant columns and extracting needed information. Understanding relations between datasets and mapping each of these properly to attain insights: **Maggie and Fiona**
+  - Findings: numeric results and at least one visualization: **Panth**
+  - Future work: lessons learned and opportunities to further project: **Tina**
+  - Challenges: Discuss main obstacles when completing the project: **Tina**
+  - Reproducing: how someone else could achieve our project: **Panth**
+  - References: formatted citations of papers, datasets, and software used: **Tina**
+
 **6. Constraints**
 
 - All data sources are being compared in a reasonably similar time period (2010-2026), although some of the data from Chicago Health Atlas and Chicago Transit Authority are not as up to date (last updated in 2023 or 2024) compared to Green Choice Food Catalog or City of Chicago Neighborhood data
