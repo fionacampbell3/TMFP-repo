@@ -7,10 +7,10 @@ Our group is interested in investigating food accessibility across Chicago neigh
 Before beginning the project, our group will do research on the history of food deserts and explore previous research done on their existence. From there, we will examine Chicago grocery store data by neighborhood, as well as census data, health data, and CTA transit data, linked together by the neighborhood, to determine the quality of the data and their relevance to our project's goals. From there, we will clean the datasets and map connections between the datasets for better comparison. Once we do that, we will examine what geographies are considered “food deserts" and what factors are common between them that differ from non-food desert neighborhoods. 
 
 **2. Team**
-- Maggie: 
-- Fiona:
-- Panth:
-- Tina:
+- Maggie: Devising project overview and research questions, introducing external research to the topic, examining relevant information that may assist in research, and preparing datasets for cleaning and research
+- Fiona: Providing thorough descriptions of the datasets, understanding what variables are most important to our research questions, assisting in preparing data sets, and keeping track of the timeline and deliverables needed from each team member
+- Panth: Researching possible data visualizations and how to prepare data to implement them, identifying quality of datasets during cleaning stages, keeping track of steps taken during the project to write a data reproducibility section 
+- Tina: Documenting challenges encountered, identifying current known constraints, predicting future gaps, formatting in citations and references, and projecting further opportunities for future research
   
 **3. Research Question**
 
