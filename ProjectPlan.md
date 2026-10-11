@@ -7,6 +7,11 @@ Our group is interested in investigating food accessibility across Chicago neigh
 Before beginning the project, our group will do research on the history of food deserts and explore previous research done on their existence. From there, we will examine Chicago grocery store data by neighborhood, as well as census data, health data, and CTA transit data, linked together by the neighborhood, to determine the quality of the data and their relevance to our project's goals. From there, we will clean the datasets and map connections between the datasets for better comparison. Once we do that, we will examine what geographies are considered “food deserts" and what factors are common between them that differ from non-food desert neighborhoods. 
 
 **2. Team**
+- Maggie: 
+- Fiona:
+- Panth:
+- Tina:
+  
 **3. Research Question**
 
 The primary research questions we are examining are as follows:
