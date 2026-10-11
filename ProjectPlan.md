@@ -11,13 +11,13 @@ Before beginning the project, our group will do research on the history of food 
 
 The primary research questions we are examining are as follows:
 
--Which specific Chicago neighborhoods have the lowest access to grocery stores relative to population? 
+- Which specific Chicago neighborhoods have the lowest access to grocery stores relative to population? 
 
--Are food desert neighborhoods correlated to neighborhoods with poorer health?
+- Are food desert neighborhoods correlated to neighborhoods with poorer health?
 
--What demographic factors are similar across all food desert neighborhoods?
+- What demographic factors are similar across all food desert neighborhoods?
 
--Is there a correlation between access to public transportation and grocery store access?
+- Is there a correlation between access to public transportation and grocery store access?
 
 
 6. Datasets
@@ -42,11 +42,14 @@ https://www.transitchicago.com/data/
 - Bus transit is the main form of transportation represented in this project for simplicity. (Subway Data, Taxis, Ubers, City Bikes, and other forms of transportation included would result in more accurate conclusions)
 
 - Chicago Transit Authority’s KMZ/KML file on bus stops may not be feasible to utilize for an integrated tabular dataset without a neighborhood key attribute
-Green Choice Food Catalog data source may not be accessible in a free and timely manner
-City of Chicago Neighborhood’s GeoJSON file format may not be feasible to utilize for an integrated tabular dataset
+
+- Green Choice Food Catalog data source may not be accessible in a free and timely manner
+
+- City of Chicago Neighborhood’s GeoJSON file format may not be feasible to utilize for an integrated tabular dataset
 
 - Neighborhood boundaries may differ across multiple datasets, possibly making comparisons more difficult. In addition, neighborhood-level analysis may hide differences in accessibility to healthy nutritious food among highly segregated areas included in a single neighborhood
-Measuring the distances of bus stops to grocery stores does not capture the full picture of grocery accessibility, as other factors, such as bus frequency and schedules, grocery store hours, and food affordability also influence residents’ ability to access nutritional and healthy food or groceries.
+
+- Measuring the distances of bus stops to grocery stores does not capture the full picture of grocery accessibility, as other factors, such as bus frequency and schedules, grocery store hours, and food affordability also influence residents’ ability to access nutritional and healthy food or groceries
 
 8. Gaps
 
