@@ -1,0 +1,40 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "BUFFER SIZE",
+    "description": "Remove column BUFFER SIZE"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "WARD",
+    "description": "Remove column WARD"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CENSUS TRACT",
+    "description": "Remove column CENSUS TRACT"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "CENSUS BLOCK",
+    "description": "Remove column CENSUS BLOCK"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ACCOUNT NUMBER",
+    "description": "Remove column ACCOUNT NUMBER"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "COMMUNITY AREA NAME",
+    "expression": "grel:facetCount(value, \"value\", \"COMMUNITY AREA NAME\")",
+    "onError": "set-to-blank",
+    "newColumnName": "STORE COUNT",
+    "columnInsertIndex": 6,
+    "description": "Create column STORE COUNT at index 6 based on column COMMUNITY AREA NAME using expression grel:facetCount(value, \"value\", \"COMMUNITY AREA NAME\")"
+  }
+]
