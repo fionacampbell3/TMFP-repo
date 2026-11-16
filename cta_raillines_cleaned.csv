@@ -1,0 +1,154 @@
+lon,lat,lines,alt_legend,branch,segment,legend,owl_24hr_service,segment_length_ft,track_type,segment_length_mi,community_area_num,community_area,neighborhood
+-87.7019259510683,42.0226353656999,Yellow Line,YL,Yellow Line,Oakton-Skokie to Howard,YL,False,21195.44443,Elevated or at Grade,4.014,,,
+-87.719447545678,41.8020689491762,Orange Line,OR,Orange Line,Pulaski-Midway to Kedzie-Midway,OR,False,5879.427258,Elevated or at Grade,1.114,62,WEST ELSDON,WEST ELSDON
+-87.7122279403941,41.9335062476894,Blue Line (O'Hare),BL,Blue Line O'Hare,Belmont-O'Hare to Logan Square,BL,True,3515.432743,Subway,0.666,21,AVONDALE,AVONDALE
+-87.7027096950574,41.8749123475838,Blue Line (Forest Park),BL,Blue Line Forest Park,Kedzie-Homan to Western-Congress,BL,True,4809.553793,Elevated or at Grade,0.911,27,EAST GARFIELD PARK,GARFIELD PARK
+-87.6700525412785,41.8784311719199,Pink Line,PK,Pink Line,Paulina Junction to Polk,PK,False,5100.674863,Elevated or at Grade,0.966,28,NEAR WEST SIDE,UNITED CENTER
+-87.6603909240475,41.8994287217841,Blue Line (O'Hare),BL,Blue Line O'Hare,Division/Milwaukee to Chicago/Milwaukee,BL,True,4058.725225,Subway,0.769,24,WEST TOWN,WEST TOWN
+-87.6533504793541,41.938149092894,"Brown, Purple (Express), Red",RPB,Red Line North Side,Belmont-North Main to Wellington,RD,True,1355.33607,Elevated or at Grade,0.257,6,LAKE VIEW,LAKE VIEW
+-87.6748198874245,41.9503083457509,Brown Line,BR,Brown Line,Irving Park-Ravenswood to Addison-Ravenswood,BR,False,2731.994588,Elevated or at Grade,0.517,5,NORTH CENTER,NORTH CENTER
+-87.6660404657349,42.0120583548469,"Red, Purple Line",RDPR,Red Line North Side,Jarvis to Morse,RD,True,3001.49786,Elevated or at Grade,0.568,1,ROGERS PARK,ROGERS PARK
+-87.6309851225364,41.8603182332996,Red Line,RD,Red Line Dan Ryan,Cermak-Chinatown to Roosevelt/State,RD,True,5556.9765,Subway,1.052,33,NEAR SOUTH SIDE,NEAR SOUTH SIDE
+-87.641290300464,41.8755382101505,Blue Line (O'Hare),BL,Blue Line Forest Park,UIC-Halsted to Clinton-Congress,BL,True,2358.223604,Elevated or at Grade,0.447,28,NEAR WEST SIDE,WEST LOOP
+-87.6275603201787,41.8764075760597,Red Line,RD,Red Line State Street Subway,Jackson/State to Harrison,RD,True,1499.381566,Subway,0.284,32,LOOP,LOOP
+-87.6355934842721,41.8929465241862,"Brown, Purple",BRPR,Brown Line,Chicago/Franklin to Merchandise Mart,BR,False,3099.664177,Elevated or at Grade,0.587,8,NEAR NORTH SIDE,RIVER NORTH
+-87.6295911902497,41.8857467909353,"Brown, Green, Orange, Pink, Purple (Exp)",L4,Loop Elevated,Clark/Lake to State/Lake,ML,False,830.774585,Elevated or at Grade,0.157,32,LOOP,LOOP
+-87.6518856860198,41.912602430122,Red Line,RD,Red Line North Side,Subway Portal B to North/Clybourn,RD,True,1620.929002,Subway,0.307,7,LINCOLN PARK,LINCOLN PARK
+-87.6256289839216,41.7605291987184,Red Line,RD,Red Line Dan Ryan,79th to 69th,RD,True,6546.792039,Elevated or at Grade,1.24,69,GREATER GRAND CROSSING,GRAND CROSSING
+-87.6191315482309,41.8198285951974,Green Line,GR,Green Line South Elevated,43rd to Indiana,GR,False,2502.480315,Elevated or at Grade,0.474,38,GRAND BOULEVARD,GRAND BOULEVARD
+-87.7495320912051,41.8868512338635,Green Line,GR,Green Line Lake Street,Laramie to Cicero-Lake,GR,False,2811.631942,Elevated or at Grade,0.533,25,AUSTIN,AUSTIN
+-87.7184285822767,41.8539367981668,Pink Line,PK,Pink Line,Pulaski-Douglas to Central Park,PK,False,2574.171766,Elevated or at Grade,0.488,29,NORTH LAWNDALE,NORTH LAWNDALE
+-87.7131343888169,41.9673052741012,Brown Line,BR,Brown Line,Kimball to Kedzie-Ravenswood,BR,False,1790.3946,Elevated or at Grade,0.339,14,ALBANY PARK,ALBANY PARK
+-87.6962428216258,41.804504638631,Orange Line,OR,Orange Line,Kedzie-Midway to Western-Midway,OR,False,5524.174759,Elevated or at Grade,1.046,63,GAGE PARK,GAGE PARK
+-87.6833557968643,41.9663467706975,Brown Line,BR,Brown Line,Western-Ravenswood to Damen-Ravenswood,BR,False,2684.375128,Elevated or at Grade,0.508,4,LINCOLN SQUARE,LINCOLN SQUARE
+-87.6599186114247,41.8854661007128,"Green, Pink",PKGR,Green Line Lake Street,Ashland-Lake to Morgan,ML,False,4067.505131,Elevated or at Grade,0.77,28,NEAR WEST SIDE,WEST LOOP
+-87.6750982450625,41.959386085628,Brown Line,BR,Brown Line,Montrose-Ravenswood to Irving Park-Ravenswood,BR,False,2634.829426,Elevated or at Grade,0.499,5,NORTH CENTER,NORTH CENTER
+-87.6314092024079,41.8024792017696,Red Line,RD,Red Line Dan Ryan,Garfield-Dan Ryan to 47th-Dan Ryan,RD,True,5476.512229,Elevated or at Grade,1.037,37,FULLER PARK,FULLER PARK
+-87.637288914653,41.8535081653784,Orange Line,OR,Orange Line,Halsted-Midway to 17th Junction,OR,False,7782.010063,Elevated or at Grade,1.474,34,ARMOUR SQUARE,CHINATOWN
+-87.6328846687144,41.8857379955973,"Brown, Green, Orange, Pink, Purple (Exp)",L4,Loop Elevated,Tower 18 to Clark/Lake,ML,False,824.344786,Elevated or at Grade,0.156,32,LOOP,LOOP
+-87.6279679000635,41.8887484042645,Red Line,RD,Red Line North Side,Grand/State to Lake/State,RD,True,2499.421187,Subway,0.473,8,NEAR NORTH SIDE,RIVER NORTH
+-87.6431214811554,41.9063316300469,Red Line,RD,Red Line North Side,North/Clybourn to Clark/Division,RD,True,5829.10158,Subway,1.104,8,NEAR NORTH SIDE,OLD TOWN
+-87.7529742658488,41.9662420814615,Blue Line (O'Hare),BL,Blue Line O'Hare,Jefferson Park to Montrose-O'Hare,BL,True,5796.537855,Elevated or at Grade,1.098,15,PORTAGE PARK,PORTAGE PARK
+-87.699736497282,41.8542288609819,Pink Line,PK,Pink Line,Kedzie-Douglas to California-Douglas,PK,False,2889.800417,Elevated or at Grade,0.547,30,SOUTH LAWNDALE,LITTLE VILLAGE
+-87.6829436029055,41.8847343685034,Green Line,GR,Green Line Lake Street,California-Lake to Paulina Junction,GR,False,7309.368408,Elevated or at Grade,1.384,28,NEAR WEST SIDE,UNITED CENTER
+-87.6914673335583,41.9662386742333,Brown Line,BR,Brown Line,Rockwell to Western-Ravenswood,BR,False,1525.429301,Elevated or at Grade,0.289,4,LINCOLN SQUARE,LINCOLN SQUARE
+-87.6693265361323,41.8638090749215,Pink Line,PK,Pink Line,18th to Polk,PK,False,4977.226049,Elevated or at Grade,0.943,28,NEAR WEST SIDE,"LITTLE ITALY, UIC"
+-87.6548047508181,41.875696856568,Blue Line (O'Hare),BL,Blue Line Forest Park,Racine to UIC-Halsted,BL,True,2681.143552,Elevated or at Grade,0.508,28,NEAR WEST SIDE,WEST LOOP
+-87.6681955656115,41.8852848717227,"Green, Pink",PKGR,Green Line Lake Street,Paulina Junction to Ashland-Lake,ML,False,675.178121,Elevated or at Grade,0.128,28,NEAR WEST SIDE,UNITED CENTER
+-87.6569501353774,41.9602202515835,"Red, Purple Line",RDPR,Red Line North Side,Wilson to Sheridan,RD,True,4256.90095,Elevated or at Grade,0.806,3,UPTOWN,UPTOWN
+-87.6320455529689,41.7826050472131,Green Line,GR,Green Line Ashland/63rd Branch,Halsted/63rd to 59th Junction,GR,False,9551.670404,Elevated or at Grade,1.809,68,ENGLEWOOD,ENGLEWOOD
+-87.6304991475122,41.8768785906392,"Brown, Orange, Pink, Purple (Express)",L3,Loop Elevated,Library to LaSalle/Van Buren,ML,False,960.148635,Elevated or at Grade,0.182,32,LOOP,LOOP
+-87.6267575667099,41.8718009282362,"Green, Orange",GROR,Green Line South Elevated,Roosevelt/Wabash to Tower 12,ML,False,3441.161016,Elevated or at Grade,0.652,32,LOOP,LOOP
+-87.6491194019714,41.8856417658795,"Green, Pink",PKGR,Green Line Lake Street,Morgan to Clinton-Lake,ML,False,2791.003036,Elevated or at Grade,0.529,28,NEAR WEST SIDE,WEST LOOP
+-87.637113888616,41.8857197538556,"Green, Pink",PKGR,Green Line Lake Street,Clinton-Lake to Tower 18,ML,False,2139.86652,Elevated or at Grade,0.405,32,LOOP,LOOP
+-87.7857157254711,41.871595078241,Blue Line (Forest Park),BL,Blue Line Forest Park,Oak Park-Congress to Austin-Congress,BL,True,4060.368802,Elevated or at Grade,0.769,,,
+-87.7992820933443,41.8869233629736,Green Line,GR,Green Line Lake Street,Harlem-Lake to Oak Park-Lake,GR,False,2558.177793,Elevated or at Grade,0.485,,,
+-87.7728121272059,41.9761402465871,Blue Line (O'Hare),BL,Blue Line O'Hare,Harlem-O'Hare to Jefferson Park,BL,True,14394.666436,Elevated or at Grade,2.726,11,JEFFERSON PARK,JEFFERSON PARK
+-87.7709618517996,41.8873516459141,Green Line,GR,Green Line Lake Street,Austin-Lake to Central-Lake,GR,False,2311.091381,Elevated or at Grade,0.438,25,AUSTIN,AUSTIN
+-87.7544997376925,41.8518343517975,Pink Line,PK,Pink Line,54/Cermak to Cicero-Douglas,PK,False,3093.089921,Elevated or at Grade,0.586,,,
+-87.736599468202,41.9570730859152,Blue Line (O'Hare),BL,Blue Line O'Hare,Montrose-O'Hare to Irving Park-O'Hare,BL,True,5022.851249,Elevated or at Grade,0.951,16,IRVING PARK,IRVING PARK
+-87.6783654436305,41.8756028923318,Blue Line (Forest Park),BL,Blue Line Forest Park,Western-Congress to Illinois Medical District,BL,True,3946.196573,Elevated or at Grade,0.747,28,NEAR WEST SIDE,UNITED CENTER
+-87.6829611634866,41.9133064739271,Blue Line (O'Hare),BL,Blue Line O'Hare,Western/Milwaukee to Damen/Milwaukee,BL,True,3572.81355,Elevated or at Grade,0.677,24,WEST TOWN,WICKER PARK
+-87.6708147759934,41.8757025293576,Blue Line (Forest Park),BL,Blue Line Forest Park,Illinois Medical District to Loomis Junction,BL,True,1747.724481,Elevated or at Grade,0.331,28,NEAR WEST SIDE,UNITED CENTER
+-87.6723375769615,41.9064387115388,Blue Line (O'Hare),BL,Blue Line O'Hare,Damen/Milwaukee to Division/Milwaukee,BL,True,3793.536069,Elevated or at Grade,0.718,24,WEST TOWN,WICKER PARK
+-87.6511918631054,41.8935086646598,Blue Line (O'Hare),BL,Blue Line O'Hare,Chicago/Milwaukee to Grand/Milwaukee,BL,True,2737.490698,Subway,0.518,24,WEST TOWN,WEST TOWN
+-87.6746773583169,41.9455547281147,Brown Line,BR,Brown Line,Addison-Ravenswood to Paulina,BR,False,2024.296732,Elevated or at Grade,0.383,5,NORTH CENTER,NORTH CENTER
+-87.6684412144255,41.9437552609049,Brown Line,BR,Brown Line,Paulina to Southport,BR,False,1979.486271,Elevated or at Grade,0.375,6,LAKE VIEW,LAKE VIEW
+-87.6529834603976,41.9291129996794,"Brown, Purple (Express), Red",RPB,Red Line North Side,Diversey to Fullerton,RD,True,2799.749884,Elevated or at Grade,0.53,7,LINCOLN PARK,SHEFFIELD & DEPAUL
+-87.6589342378292,41.9860596278275,"Red, Purple Line",RDPR,Red Line North Side,Thorndale to Bryn Mawr,RD,True,2462.586959,Elevated or at Grade,0.466,77,EDGEWATER,EDGEWATER
+-87.6711098288259,42.0175957699275,"Red, Purple Line",RDPR,Red Line North Side,Howard to Jarvis,RD,True,1554.32866,Elevated or at Grade,0.294,1,ROGERS PARK,ROGERS PARK
+-87.6292580064966,41.8768726117904,Blue Line (O'Hare),BL,Blue Line Dearborn Subway,Jackson/Dearborn to LaSalle,BL,True,1569.026226,Subway,0.297,32,LOOP,LOOP
+-87.6274659801527,41.8699968615666,Red Line,RD,Red Line State Street Subway,Roosevelt/State to Harrison,RD,True,2431.450805,Subway,0.461,32,LOOP,LOOP
+-87.6281144266646,41.8948787535882,Red Line,RD,Red Line North Side,Chicago/State to Grand/State,RD,True,1824.767976,Subway,0.346,8,NEAR NORTH SIDE,RIVER NORTH
+-87.6184126891198,41.7981881636733,Green Line,GR,Green Line South Elevated,Garfield-South Elevated to 51st,GR,False,2520.365767,Elevated or at Grade,0.477,40,WASHINGTON PARK,WASHINGTON PARK
+-87.780406265134,41.8872268123317,Green Line,GR,Green Line Lake Street,Ridgeland to Austin-Lake,GR,False,2594.492724,Elevated or at Grade,0.491,,,
+-87.756330319842,41.8873485000109,Green Line,GR,Green Line Lake Street,Central-Lake to Laramie,GR,False,2916.164281,Elevated or at Grade,0.552,25,AUSTIN,AUSTIN
+-87.7363774541414,41.8528459459948,Pink Line,PK,Pink Line,Cicero-Douglas to Kostner,PK,False,3538.786543,Elevated or at Grade,0.67,29,NORTH LAWNDALE,NORTH LAWNDALE
+-87.7366775992757,41.8726584153181,Blue Line (Forest Park),BL,Blue Line Forest Park,Cicero-Congress to Pulaski-Congress,BL,True,5492.162756,Elevated or at Grade,1.04,26,WEST GARFIELD PARK,GARFIELD PARK
+-87.7316129070098,41.8537902505528,Pink Line,PK,Pink Line,Kostner to Pulaski-Douglas,PK,False,2435.417418,Elevated or at Grade,0.461,29,NORTH LAWNDALE,NORTH LAWNDALE
+-87.7212181649651,41.8851841723625,Green Line,GR,Green Line Lake Street,Pulaski-Lake to Conservatory-Central Park,GR,False,2425.429648,Elevated or at Grade,0.459,26,WEST GARFIELD PARK,GARFIELD PARK
+-87.7157843457289,41.9426782903065,Blue Line (O'Hare),BL,Blue Line O'Hare,Addison-O'Hare to Belmont-O'Hare,BL,True,4022.02711,Elevated or at Grade,0.762,21,AVONDALE,AVONDALE
+-87.6791651522897,41.8544864630639,Pink Line,PK,Pink Line,Western-Douglas to Damen,PK,False,2508.233473,Elevated or at Grade,0.475,31,LOWER WEST SIDE,LOWER WEST SIDE
+-87.6926009901922,41.9193597463622,Blue Line (O'Hare),BL,Blue Line O'Hare,California/Milwaukee to Western/Milwaukee,BL,True,3340.72624,Elevated or at Grade,0.633,22,LOGAN SQUARE,LOGAN SQUARE
+-87.6787408792867,42.0297798024047,Purple Line,PR,Purple Line Evanston,Main to South Blvd.,PR,False,2155.039329,Elevated or at Grade,0.408,,,
+-87.6880680960382,42.0685130879737,Purple Line,PR,Purple Line Evanston,Linden to Central-Evanston,PR,False,3618.7281,Elevated or at Grade,0.685,,,
+-87.6834607413058,42.056347561528,Purple Line,PR,Purple Line Evanston,Noyes to Foster,PR,False,1504.342751,Elevated or at Grade,0.285,,,
+-87.683997343034,42.0611782595053,Purple Line,PR,Purple Line Evanston,Central-Evanston to Noyes,PR,False,2193.05017,Elevated or at Grade,0.415,,,
+-87.6560739501805,41.8437987742715,Orange Line,OR,Orange Line,Ashland-Midway to Halsted-Midway,OR,False,5445.501607,Elevated or at Grade,1.031,60,BRIDGEPORT,BRIDGEPORT
+-87.6691345317684,41.8566243738449,Pink Line,PK,Pink Line,Damen to 18th,PK,False,2970.153398,Elevated or at Grade,0.563,31,LOWER WEST SIDE,LOWER WEST SIDE
+-87.6534157622964,41.9411524899345,"Brown, Purple (Express), Red",RPB,Red Line North Side,Clark Junction to Belmont-North Main,RD,True,884.366128,Elevated or at Grade,0.167,6,LAKE VIEW,LAKE VIEW
+-87.6752034894614,41.9640456440935,Brown Line,BR,Brown Line,Damen-Ravenswood to Montrose-Ravenswood,BR,False,2371.581205,Elevated or at Grade,0.449,4,LINCOLN SQUARE,LINCOLN SQUARE
+-87.6583772025691,41.966793629988,"Red, Purple Line",RDPR,Red Line North Side,Lawrence to Wilson,RD,True,1798.768198,Elevated or at Grade,0.341,3,UPTOWN,UPTOWN
+-87.658777028321,41.9812263221204,"Red, Purple Line",RDPR,Red Line North Side,Bryn Mawr to Berwyn,RD,True,2012.212864,Elevated or at Grade,0.381,77,EDGEWATER,EDGEWATER
+-87.6265371889642,41.8638185094902,"Green, Orange",GROR,Green Line South Elevated,17th Junction to Roosevelt/Wabash,ML,False,3151.194152,Elevated or at Grade,0.597,33,NEAR SOUTH SIDE,NEAR SOUTH SIDE
+-87.6354679174006,41.8755941456923,Blue Line (O'Hare),BL,Blue Line Forest Park,Clinton-Congress to LaSalle,BL,True,2522.932963,Subway,0.478,32,LOOP,LOOP
+-87.6260915558904,41.8768511094443,"Brown, Orange, Pink, Purple (Express)",L3,Loop Elevated,Tower 12 to Library,ML,False,647.793225,Elevated or at Grade,0.123,32,LOOP,LOOP
+-87.6527562714988,41.921431243291,"Brown, Purple (Express), Red",RPB,Red Line North Side,Fullerton to Armitage,RD,True,2491.420693,Elevated or at Grade,0.472,7,LINCOLN PARK,LINCOLN PARK
+-87.6505530025511,41.9123234734986,"Brown, Purple",BRPR,Brown Line,Subway Portal B to Sedgwick,BR,False,4303.794929,Elevated or at Grade,0.815,7,LINCOLN PARK,LINCOLN PARK
+-87.6110028273535,41.780216401917,Green Line,GR,Green Line East 63rd Branch,Cottage Grove to King Drive,GR,False,2643.49567,Elevated or at Grade,0.501,42,WOODLAWN,WOODLAWN
+-87.6181893340985,41.7904285033308,Green Line,GR,Green Line South Elevated,59th Junction to Garfield-South Elevated,GR,False,2810.024259,Elevated or at Grade,0.532,40,WASHINGTON PARK,WASHINGTON PARK
+-87.6264604785546,41.8559270546402,Green Line,GR,Green Line South Elevated,Cermak-McCormick Place to 17th Junction,GR,False,2057.480507,Elevated or at Grade,0.39,33,NEAR SOUTH SIDE,NEAR SOUTH SIDE
+-87.8181731727429,41.9833584846745,Blue Line (O'Hare),BL,Blue Line O'Hare,Cumberland to Harlem-O'Hare,BL,True,8013.705631,Elevated or at Grade,1.518,10,NORWOOD PARK,NORWOOD PARK
+-87.7989418217611,41.8727448116722,Blue Line (Forest Park),BL,Blue Line Forest Park,Harlem-Congress to Oak Park-Congress,BL,True,4213.413708,Elevated or at Grade,0.798,,,
+-87.7115742814819,41.8846340361242,Green Line,GR,Green Line Lake Street,Conservatory-Central Park to Kedzie-Lake,GR,False,2831.178857,Elevated or at Grade,0.536,27,EAST GARFIELD PARK,GARFIELD PARK
+-87.6810427501408,41.8175761613073,Orange Line,OR,Orange Line,Western-Midway to 35th/Archer,OR,False,11059.72247,Elevated or at Grade,2.095,61,NEW CITY,NEW CITY
+-87.6916751595942,41.8543395586365,Pink Line,PK,Pink Line,California-Douglas to Western-Douglas,PK,False,2627.771643,Elevated or at Grade,0.498,30,SOUTH LAWNDALE,LITTLE VILLAGE
+-87.6983161916455,41.9661791826477,Brown Line,BR,Brown Line,Francisco to Rockwell,BR,False,2052.127181,Elevated or at Grade,0.389,4,LINCOLN SQUARE,LINCOLN SQUARE
+-87.6565023400161,41.7790918494755,Green Line,GR,Green Line Ashland/63rd Branch,Ashland/63rd to Halsted/63rd,GR,False,5416.267312,Elevated or at Grade,1.026,67,WEST ENGLEWOOD,ENGLEWOOD
+-87.6536577400585,41.9508492819371,"Red, Purple Line",RDPR,Red Line North Side,Sheridan to Addison-North Main,RD,True,2581.713721,Elevated or at Grade,0.489,6,LAKE VIEW,LAKE VIEW
+-87.6586339432721,41.9766138629263,"Red, Purple Line",RDPR,Red Line North Side,Berwyn to Argyle,RD,True,1651.480045,Elevated or at Grade,0.313,77,EDGEWATER,EDGEWATER
+-87.6585148560558,41.9723245159497,"Red, Purple Line",RDPR,Red Line North Side,Argyle to Lawrence,RD,True,1572.30911,Elevated or at Grade,0.298,3,UPTOWN,UPTOWN
+-87.6267708922412,41.7745489574448,Red Line,RD,Red Line Dan Ryan,69th to 63rd-Dan Ryan,RD,True,4848.194081,Elevated or at Grade,0.918,69,GREATER GRAND CROSSING,GRAND CROSSING
+-87.6339702562252,41.8880264649974,"Brown, Purple",BRPR,Brown Line,Merchandise Mart to Tower 18,BR,False,1182.089156,Elevated or at Grade,0.224,8,NEAR NORTH SIDE,RIVER NORTH
+-87.6283283964586,41.9011988134589,Red Line,RD,Red Line North Side,Clark/Division to Chicago/State,RD,True,3370.112929,Subway,0.638,8,NEAR NORTH SIDE,RUSH & DIVISION
+-87.8469154402858,41.9839364755123,Blue Line (O'Hare),BL,Blue Line O'Hare,Rosemont to Cumberland,BL,True,5815.960602,Elevated or at Grade,1.102,76,O'HARE,O'HARE
+-87.8146101266175,41.8738844890253,Blue Line (Forest Park),BL,Blue Line Forest Park,Forest Park to Harlem-Congress,BL,True,2881.688341,Elevated or at Grade,0.546,,,
+-87.7080613392685,41.8741616305567,Blue Line (Forest Park),BL,Blue Line Forest Park,Pulaski-Congress to Kedzie-Homan,BL,True,5361.254795,Elevated or at Grade,1.015,27,EAST GARFIELD PARK,GARFIELD PARK
+-87.7052270476026,41.966132629465,Brown Line,BR,Brown Line,Kedzie-Ravenswood to Francisco,BR,False,1955.021551,Elevated or at Grade,0.37,14,ALBANY PARK,ALBANY PARK
+-87.6974720252102,41.8841600713443,Green Line,GR,Green Line Lake Street,Kedzie-Lake to California-Lake,GR,False,2708.389481,Elevated or at Grade,0.513,27,EAST GARFIELD PARK,GARFIELD PARK
+-87.6805975669221,42.0370854175654,Purple Line,PR,Purple Line Evanston,Dempster to Main,PR,False,3046.418214,Elevated or at Grade,0.577,,,
+-87.6720282319976,41.8349871945549,Orange Line,OR,Orange Line,35th/Archer to Ashland-Midway,OR,False,5489.06291,Elevated or at Grade,1.04,59,MCKINLEY PARK,MCKINLEY PARK
+-87.6531726541656,41.9337922947214,"Brown, Purple (Express), Red",RPB,Red Line North Side,Wellington to Diversey,RD,True,1203.55975,Elevated or at Grade,0.228,6,LAKE VIEW,LAKE VIEW
+-87.6654041785705,42.0049653559453,"Red, Purple Line",RDPR,Red Line North Side,Morse to Loyola,RD,True,3131.410552,Elevated or at Grade,0.593,1,ROGERS PARK,ROGERS PARK
+-87.6592676219387,41.9973749548662,"Red, Purple Line",RDPR,Red Line North Side,Loyola to Granville,RD,True,2830.409377,Elevated or at Grade,0.536,77,EDGEWATER,EDGEWATER
+-87.6310572202364,41.789704963548,Red Line,RD,Red Line Dan Ryan,63rd-Dan Ryan to Garfield-Dan Ryan,RD,True,5425.129213,Elevated or at Grade,1.027,68,ENGLEWOOD,ENGLEWOOD
+-87.6338770489844,41.8835581746586,"Brown, Orange, Pink, Purple (Express)",L3,Loop Elevated,Washington/Wells to Tower 18,ML,False,1104.107321,Elevated or at Grade,0.209,32,LOOP,LOOP
+-87.6293369793397,41.8792743919469,Blue Line (O'Hare),BL,Blue Line Dearborn Subway,Jackson/Dearborn to Monroe/Dearborn,BL,True,918.932131,Subway,0.174,32,LOOP,LOOP
+-87.627652028039,41.8794565110006,Red Line,RD,Red Line State Street Subway,Monroe/State to Jackson/State,RD,True,944.877871,Subway,0.179,32,LOOP,LOOP
+-87.6439043170206,41.8887082534547,Blue Line (O'Hare),BL,Blue Line O'Hare,Grand/Milwaukee to Clark/Lake,BL,True,5334.585725,Subway,1.01,28,NEAR WEST SIDE,WEST LOOP
+-87.6525848428038,41.9164104304698,"Brown, Purple (Express), Red",RPB,Red Line North Side,Armitage to Subway Portal B,RD,True,1515.432871,Elevated or at Grade,0.287,7,LINCOLN PARK,LINCOLN PARK
+-87.6179845700636,41.7826402973787,Green Line,GR,Green Line East 63rd Branch,King Drive to 59th Junction,GR,False,3308.823738,Elevated or at Grade,0.627,40,WASHINGTON PARK,WASHINGTON PARK
+-87.6185978453237,41.8048669082477,Green Line,GR,Green Line South Elevated,51st to 47th-South Elevated,GR,False,2597.667938,Elevated or at Grade,0.492,38,GRAND BOULEVARD,GRAND BOULEVARD
+-87.9003690153847,41.9802336256304,Blue Line (O'Hare),BL,Blue Line O'Hare,O'Hare Airport to Subway Portal A,BL,True,2195.064752,Subway,0.416,76,O'HARE,O'HARE
+-87.8803878926474,41.9803204961023,Blue Line (O'Hare),BL,Blue Line O'Hare,Subway Portal A to Rosemont,BL,True,11048.42139,Elevated or at Grade,2.093,76,O'HARE,O'HARE
+-87.788632521112,41.8870808487548,Green Line,GR,Green Line Lake Street,Oak Park-Lake to Ridgeland,GR,False,2757.127053,Elevated or at Grade,0.522,,,
+-87.7751467858362,41.8707928051337,Blue Line (Forest Park),BL,Blue Line Forest Park,Austin-Congress to Cicero-Congress,BL,True,8734.717507,Elevated or at Grade,1.654,,,
+-87.7380211915872,41.7933132721663,Orange Line,OR,Orange Line,Midway Airport to Pulaski-Midway,OR,False,6923.362145,Elevated or at Grade,1.311,56,GARFIELD RIDGE,GARFIELD RIDGE
+-87.7349546692213,41.8859654582447,Green Line,GR,Green Line Lake Street,Cicero-Lake to Pulaski-Lake,GR,False,5269.520375,Elevated or at Grade,0.998,26,WEST GARFIELD PARK,GARFIELD PARK
+-87.7493084380472,42.0327507595112,Yellow Line,YL,Yellow Line,Dempster-Skokie to Oakton-Skokie,YL,False,4828.48427,Elevated or at Grade,0.914,,,
+-87.7076049130864,41.8540963066282,Pink Line,PK,Pink Line,Central Park to Kedzie-Douglas,PK,False,2575.744304,Elevated or at Grade,0.488,29,NORTH LAWNDALE,NORTH LAWNDALE
+-87.7029957595044,41.9256711570197,Blue Line (O'Hare),BL,Blue Line O'Hare,Logan Square to California/Milwaukee,BL,True,4266.422371,Subway,0.808,22,LOGAN SQUARE,LOGAN SQUARE
+-87.7245275316356,41.9503068137172,Blue Line (O'Hare),BL,Blue Line O'Hare,Irving Park-O'Hare to Addison-O'Hare,BL,True,3420.290535,Elevated or at Grade,0.648,16,IRVING PARK,IRVING PARK
+-87.6825990512951,42.0448678105228,Purple Line,PR,Purple Line Evanston,Davis to Dempster,PR,False,2284.09681,Elevated or at Grade,0.433,,,
+-87.6835144827058,42.050334412135,Purple Line,PR,Purple Line Evanston,Foster to Davis,PR,False,2351.054847,Elevated or at Grade,0.445,,,
+-87.6625926166695,41.8758485596732,Blue Line (O'Hare),BL,Blue Line Forest Park,Loomis Junction to Racine,BL,True,2199.893623,Elevated or at Grade,0.417,28,NEAR WEST SIDE,WEST LOOP
+-87.6537119676312,41.9429996354094,Brown Line,BR,Brown Line,Southport to Clark Junction,BR,False,3163.236427,Elevated or at Grade,0.599,6,LAKE VIEW,LAKE VIEW
+-87.6535306155384,41.944941269357,"Red, Purple Line",RDPR,Red Line North Side,Addison-North Main to Clark Junction,RD,True,1918.716639,Elevated or at Grade,0.363,6,LAKE VIEW,LAKE VIEW
+-87.6591114039717,41.9916003209813,"Red, Purple Line",RDPR,Red Line North Side,Granville to Thorndale,RD,True,1241.323376,Elevated or at Grade,0.235,77,EDGEWATER,EDGEWATER
+-87.6776426932925,42.0237738604023,Purple Line,PR,Purple Line Evanston,South Blvd. to Howard,PR,False,3636.173397,Elevated or at Grade,0.689,,,
+-87.6303782837896,41.8201939491006,Red Line,RD,Red Line Dan Ryan,47th-Dan Ryan to Sox-35th-Dan Ryan,RD,True,7640.992973,Elevated or at Grade,1.447,37,FULLER PARK,FULLER PARK
+-87.6310894403373,41.8423522718101,Red Line,RD,Red Line Dan Ryan,Sox-35th-Dan Ryan to Cermak-Chinatown,RD,True,8041.451907,Elevated or at Grade,1.523,34,ARMOUR SQUARE,ARMOUR SQUARE
+-87.6338194916773,41.8807980974515,"Brown, Orange, Pink, Purple (Express)",L3,Loop Elevated,Quincy/Wells to Washington/Wells,ML,False,1447.78613,Elevated or at Grade,0.274,32,LOOP,LOOP
+-87.6337189650208,41.8780001219647,"Brown, Orange, Pink, Purple (Express)",L3,Loop Elevated,LaSalle/Van Buren to Quincy/Wells,ML,False,1179.72645,Elevated or at Grade,0.223,32,LOOP,LOOP
+-87.6294148353196,41.8816817586372,Blue Line (O'Hare),BL,Blue Line Dearborn Subway,Washington/Dearborn to Monroe/Dearborn,BL,True,896.981785,Subway,0.17,32,LOOP,LOOP
+-87.6277281627277,41.8819874813826,Red Line,RD,Red Line State Street Subway,Lake/State to Monroe/State,RD,True,1481.462874,Subway,0.281,32,LOOP,LOOP
+-87.6370215760045,41.9035154227323,"Brown, Purple",BRPR,Brown Line,Sedgwick to Chicago/Franklin,BR,False,5532.304574,Elevated or at Grade,1.048,8,NEAR NORTH SIDE,RIVER NORTH
+-87.6294585753637,41.8842746211293,Blue Line (O'Hare),BL,Blue Line Dearborn Subway,Clark/Lake to Washington/Dearborn,BL,True,1285.128506,Subway,0.243,32,LOOP,LOOP
+-87.626228504985,41.8842892170409,"Brown, Green, Orange, Pink, Purple (Exp)",L4,Loop Elevated,State/Lake to Washington/Wabash,ML,False,1317.604924,Elevated or at Grade,0.25,32,LOOP,LOOP
+-87.624900648882,41.7412644285888,Red Line,RD,Red Line Dan Ryan,87th to 79th,RD,True,5482.440067,Elevated or at Grade,1.038,44,CHATHAM,CHATHAM
+-87.6245696279528,41.7285308643408,Red Line,RD,Red Line Dan Ryan,95/Dan Ryan to 87th,RD,True,4736.477989,Elevated or at Grade,0.897,49,ROSELAND,ROSELAND
+-87.62575207085,41.8263255090878,Green Line,GR,Green Line South Elevated,Indiana to 35-Bronzeville-IIT,GR,False,4677.796949,Elevated or at Grade,0.886,35,DOUGLAS,DOUGLAS
+-87.6189553041386,41.8137346410174,Green Line,GR,Green Line South Elevated,47th-South Elevated to 43rd,GR,False,2644.180996,Elevated or at Grade,0.501,38,GRAND BOULEVARD,GRAND BOULEVARD
+-87.6261416427064,41.8422915955068,Green Line,GR,Green Line South Elevated,35-Bronzeville-IIT to Cermak-McCormick Place,GR,False,7813.440088,Elevated or at Grade,1.48,35,DOUGLAS,DOUGLAS
+-87.6261327845554,41.8807784121538,"Brown, Green, Orange, Pink, Purple (Exp)",L4,Loop Elevated,Washington/Wabash to Adams/Wabash,ML,False,1352.120554,Elevated or at Grade,0.256,32,LOOP,LOOP
+-87.6260476628666,41.8775131388105,"Brown, Green, Orange, Pink, Purple (Exp)",L4,Loop Elevated,Adams/Wabash to Tower 12,ML,False,1022.956834,Elevated or at Grade,0.194,32,LOOP,LOOP
