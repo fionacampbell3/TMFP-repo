@@ -49,7 +49,7 @@ The following is a list of the tasks, dates, and contributors for Milestone 3 (S
 - Cleaning CTA dataset for merging: Panth
 - Cleaning Chicago Health Atlas dataset (Openrefine): Maggie
 - Cleaning Neighborhood dataset: Maggie
-- 
+  
 ***By Nov. 16th:***
 - Merging datasets: Panth, Maggie, Fiona
 - Each team member provides a summary of what they contributed for this milestone: each member
