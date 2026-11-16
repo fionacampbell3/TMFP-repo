@@ -53,7 +53,28 @@ Each team member provides a summary of what they contributed for this milestone:
 
 **Gaps:**
 
+Some of the old gaps were filled as we learned about using OpenRefine to clean datasets. A new gap was encountered with a changed dataset. Most other gaps have not changed. 
+
+- The grocery store dataset includes every single latitude and longitude for each observation. One gap we encountered was trying to figure out the possibilities of how to map grocery store locations to the neighborhoods while considering this unexpected data format presented.
+- Unknown if our 4th research question can be answered. 
+- Unknown if GeoPandas must be utilized.
+- Unknown how to currently handle the_geom column from the neighborhood boundaries dataset.
+- Currently unable to independently produce a significant amount of the artifacts and tools listed in the course project examples (documenting a reproducible analysis, meaningful or complex visualizations, utilization of DCAT or Box for large data files, etc.)
+- May lack the sufficient experience to seamlessly integrate all chosen datasets utilizing SQL in addition to the multiple different file formats including GeoJSON, JSON, CSV, XML, and KML/KMZ.
+
 **Constraints:**
+
+A few changes have been made to our constraints. For the ease of this project, we have changed to working with CSV formats for most of our chosen datasets. Constraints of the past inaccessible food nutrition dataset have been deleted. New constraints have been added among exploring the four datasets along with our process of dataset integration. New challenges were also found and resolved.
+
+- We found how large food corporations have inconsistent naming principles in the grocery store dataset. For example, ALDI has either ‘ALDI’S’, ‘ALDI’, or “ALDI #x” (x being whatever number was chosen for that address). A challenge we encountered was needing to find the best case naming principle for our project. Two solutions are having the names be the same across all addresses because they are uniquely identified by their address, or having the stores be individually named.
+- One of the challenges we encountered throughout the beginning of this project has been finding a more relevant grocery store dataset for Chicago. As mentioned in the “Datasets” section, after looking into the dataset we chose, we found that it is much more focused than products over grocery store locations, and is not relevant to our project. Therefore, we found a much more relevant dataset on the number of Chicago grocery stores per neighborhood area.
+- Another challenge we had was the grocery store dataset not having a way to count the number of stores in the same neighborhood. We decided to add another column to be able to match this to the neighborhood boundary dataset and get an accurate count of how many grocery store options people have, given they are in a certain neighborhood. 
+- The grocery store dataset’s License ID and Square Feet columns include a minimal amount of missing values, although we do not believe this will significantly impact our research and conclusions.
+- All data sources are being compared in a reasonably similar time period (2010-2026), although some of the data from Chicago Grocery Stores, Chicago Health Atlas, and Chicago Transit Authority are not as up to date (last updated in 2019, 2023, and 2024,  respectively) compared to the City of Chicago Neighborhood data.
+- Bus and subway transit is the main form of transportation represented in this project for simplicity. Ubers, e-Bikes, and other forms of transportation included would result in more accurate conclusions.
+- Neighborhood boundaries may differ across multiple datasets, possibly making comparisons more difficult. In addition, neighborhood-level analysis may hide differences in accessibility to healthy nutritious food among highly segregated areas included in a single neighborhood.
+- Measuring the distances of bus stops to grocery stores does not capture the full picture of grocery accessibility, as other factors, such as bus frequency and schedules, grocery store hours, and food affordability also influence residents’ ability to access nutritional and healthy food or groceries.
+- Chicago Transit Authority’s KMZ/KML file on bus stops may not be feasible to utilize for an integrated tabular dataset.
 
 **Contributions:**
 
