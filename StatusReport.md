@@ -37,14 +37,14 @@ https://chicagohealthatlas.org/
 
 The following is a list of the tasks, dates, and contributors for Milestone 3 (Status Report) 
 
-***By October 23rd:****
+***By October 23rd:***
 - Update used datasets for current state project: Maggie
 - Contribute to exporting datasets with relevant columns: Maggie, Panth, Fiona
 - Update challenges and constraints with merging datasets: Tina
 - Create a GitHub file for the Status Report (StatusReport.md): Fiona  
 - Assess current state of research/business questions: each member
 
-***By Nov. 9th:****
+***By Nov. 9th:***
 - Cleaning Grocery Store dataset (Openrefine): Fiona 
 - Cleaning CTA dataset for merging: Panth
 - Cleaning Chicago Health Atlas dataset (Openrefine): Maggie
