@@ -1,5 +1,27 @@
 # TMFP-repo
-Group TMFP Repository for IS 477 Final Project Fall 2026 
+Milestone 4: Final Project Submission
+
+Title:
 
 Contributors: Fiona, Magdalena, Panth and Tina
+
+Summary:
+
+Data Profile:
+
+Data Quality:
+
+Data Cleaning:
+
+Findings:
+
+Future Work:
+
+Challenges:
+
+Reproducing:
+
+References:
+
+
 
